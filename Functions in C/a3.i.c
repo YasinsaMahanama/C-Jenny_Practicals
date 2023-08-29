@@ -10,12 +10,6 @@ void main()
 void sum(int a,int b)      //function definition
 {
     int sum=0;
-    printf("Enter the value of numbers : \n");
-    printf("\ta = ");
-    scanf("%d",&a);
-    printf("\tb = ");
-    scanf("%d",&b);
-
     sum = a+b;
     printf("\nSUM = %d",sum);
 

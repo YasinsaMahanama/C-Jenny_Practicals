@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void sum(int x,int y); //function declaration
+void sum(int,int); //function declaration
 void main()
 {
     sum(5,7);      //function calling
